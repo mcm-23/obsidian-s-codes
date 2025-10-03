@@ -1,0 +1,19 @@
+```dataview
+table title as "Essay Title", tarot as "Tarot Card", post_number as "Post #", status as "Status", link as "Link"
+from "Essays"
+where month = "October"
+sort post_number asc
+
+
+### Step 2: Frontmatter for essay note
+```yaml
+---
+title: The Fool’s Journey Into Autumn
+month: October
+post_number: 1
+status: Draft
+tarot: The Fool
+date: 2025-10-10
+link: https://substack.com/myfoolessay
+
+
