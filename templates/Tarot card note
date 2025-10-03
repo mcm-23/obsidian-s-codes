@@ -1,0 +1,26 @@
+---
+card: The Fool
+meaning: New beginnings, risk-taking
+linked_theme: Autumn & transition
+published_date: 2025-10-10
+month: October
+post_number: 1
+essay_link: https://substack.com/myfoolessay
+---
+
+### 3️⃣ How to add new rows
+- You **don’t type in the table itself**. Instead:  
+  1. Create a new note in the `Tarot` folder (e.g., `The Lovers.md`).  
+  2. Add its metadata (frontmatter).  
+  3. Switch back to the dashboard note → the table updates automatically.  
+
+---
+
+### TL;DR
+- Copying the **Dataview query** doesn’t create rows.  
+- Rows come from **notes with frontmatter**.  
+- Preview mode = where the “magic” happens.  
+
+---
+- Don’t try to edit it in “Edit mode” and expect it to change the table.  
+- **Switch to Preview mode** (click the little eye icon or press `Ctrl/Cmd+E`). 
